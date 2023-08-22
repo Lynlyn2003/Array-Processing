@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CopyOfArrayProcessing2{
     public static void main( String args[] ){
-        final (double) SIZE = (double)20.00;
+        final double SIZE = (double)20.00;
         double array[] = new double[SIZE];
         Scanner type = new Scanner(System.in);
         
